@@ -1,0 +1,10 @@
+import productImage1 from '../assets/images/product-img1.jpg';
+import productImage2 from '../assets/images/product-img2.jpg';
+import productImage3 from '../assets/images/product-img3.jpg';
+import productImage4 from '../assets/images/product-img4.jpg';
+import Sprites from '../assets/images/sprite.svg';
+import Reviews from './components/reviews';
+import Catalog from './components/catalog';
+import PhonePlaceholder from './components/phone';
+import ShoppingCart from './components/shopping-cart';
+import '../styles/style.scss';

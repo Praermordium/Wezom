@@ -1,0 +1,15 @@
+export default{
+    window: window,
+    document: document,
+    html: document.documentElement,
+    body: document.body,
+    catalogMenu: document.querySelector('.catalog__menu'),
+    menu: document.querySelector('.header__nav-bar'),
+    catalog: document.querySelector('.header__catalog'),
+    catalogItem: document.querySelectorAll('.catalog__item'),
+    reviewsButton: document.querySelector('.reviews__button'),
+    allReviewsButton: document.querySelector('.reviews__title-button'),
+    reviewsCounter: document.querySelector('.reviews__title-counter'),
+    shoppingCart: document.querySelector('.product-management__item3'),
+    productManagment: document.querySelector('.header__product-management'),
+} 
